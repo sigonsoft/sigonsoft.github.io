@@ -1,3 +1,6 @@
+---
+project-name: Sigon Software Foundation
+---
 ## Welcome to the Sigon Software Foundation
 
 This Site is currently under construction. For more details see [our GitHub Page](https://github.com/sigonsoft/).
