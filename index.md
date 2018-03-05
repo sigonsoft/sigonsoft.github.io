@@ -1,5 +1,5 @@
 ---
-project-name: Sigon Software Foundation
+title: Sigon Software Foundation
 ---
 ## Welcome to the Sigon Software Foundation
 
